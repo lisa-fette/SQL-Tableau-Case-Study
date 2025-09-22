@@ -14,7 +14,5 @@ The objective of this project was to complete an analysis of a synthetic data se
 A synthetic data set created for this project was used
 
 ## Methods
-1. SQL was used to conduct the data analysis
-2. Tableau was utilized to create visualizations and develop an executive presentation for this project
-
-## Stages
+1. Write SQL queries and subqueries to retrieve, filter, manipulate, aggregate, summarize, and explore data contained in a database
+2. Utilize Tableau to create data visualizations and develop an executive presentation for this project
